@@ -1,6 +1,6 @@
 {
     "name": "mojoblanco/domainos",
-    "description": "A laravel package for allowing or blocking specific domains registration",
+    "description": "A laravel package for allowing or blocking specific email domains",
     "license": "MIT",
     "authors": [
         {
