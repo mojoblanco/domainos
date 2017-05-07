@@ -1,0 +1,13 @@
+{
+    "name": "mojoblanco/domainos",
+    "description": "A laravel package for allowing or blocking specific domains registration",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Olawale",
+            "email": "mojoblanco@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
