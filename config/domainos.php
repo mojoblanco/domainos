@@ -2,13 +2,11 @@
 
 return [
     'block' => [
-        'mailinator.com',
-        'example.com',
+        // Domains you want to block e.g mailinator.com
     ],
 
 
     'allow' => [
-        'google.com',
-        'outlook.com',
+        // Domains you want to allow e.g gmail.com
     ],
 ];
