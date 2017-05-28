@@ -36,7 +36,7 @@ Open your terminal or command prompt, go to the root directory of your Laravel p
 
 
 ### Notice
-This package can be useful when you prevent or allow specific email addresses during user registration.
+This package can be very useful when you want to prevent or allow specific email addresses during user registration.
 
 
 ### Author 
