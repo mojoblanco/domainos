@@ -35,6 +35,9 @@ Open your terminal or command prompt, go to the root directory of your Laravel p
 3. Test the validation
 
 
+### Notice
+This package can be useful when you prevent or allow specific email addresses during user registration.
+
 
 ### Author 
 [John Olawale](http://twitter.com/themojoblanco)
