@@ -1,5 +1,10 @@
 # Domainos
 
+[![Latest Stable Version](https://poser.pugx.org/mojoblanco/domainos/v/stable)](https://packagist.org/packages/mojoblanco/domainos)
+[![Total Downloads](https://poser.pugx.org/mojoblanco/domainos/downloads)](https://packagist.org/packages/mojoblanco/domainos)
+[![Latest Unstable Version](https://poser.pugx.org/mojoblanco/domainos/v/unstable)](https://packagist.org/packages/mojoblanco/domainos)
+[![License](https://poser.pugx.org/mojoblanco/domainos/license)](https://packagist.org/packages/mojoblanco/domainos)
+
 A laravel package for allowing or blocking specific email domains
 
 ## Installation
