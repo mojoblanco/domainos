@@ -1,5 +1,10 @@
 # Domainos
 
+[![Latest Stable Version](https://poser.pugx.org/mojoblanco/domainos/v/stable)](https://packagist.org/packages/mojoblanco/domainos)
+[![Total Downloads](https://poser.pugx.org/mojoblanco/domainos/downloads)](https://packagist.org/packages/mojoblanco/domainos)
+[![Latest Unstable Version](https://poser.pugx.org/mojoblanco/domainos/v/unstable)](https://packagist.org/packages/mojoblanco/domainos)
+[![License](https://poser.pugx.org/mojoblanco/domainos/license)](https://packagist.org/packages/mojoblanco/domainos)
+
 A laravel package for allowing or blocking specific email domains
 
 ## Installation
@@ -35,6 +40,10 @@ Open your terminal or command prompt, go to the root directory of your Laravel p
 3. Test the validation
 
 
+### Notice
+This package can be very useful when you want to prevent or allow specific email addresses during user registration.
 
-### Author 
-[John Olawale](http://twitter.com/themojoblanco)
+
+### How can you thank me?
+You can like this repo, follow me on [github](https://github.com/mojoblanco) and [twitter](https://twitter.com/themojoblanco)
+Thanks.
