@@ -1,7 +1,7 @@
 {
     "name": "mojoblanco/domainos",
     "type": "package",
-    "description": "A laravel package for allowing or blocking specific email domains",
+    "description": "A laravel package for blacklisting or whitelisting specific email providers or domains",
     "keywords": [
         "laravel",
         "mojoblanco",
