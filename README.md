@@ -16,6 +16,8 @@ Open your terminal or command prompt, go to the root directory of your Laravel p
     ```
 
 2. Add the provider to the providers array in config/app.php
+   
+   _If you are using laravel 5.5, you don't need to place the code below_
     ```
     Mojoblanco\Domainos\DomainosServiceProvider::class,
     ```
