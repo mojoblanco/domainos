@@ -1,8 +1,8 @@
 <?php
 
-use Tests\TestCase;
+namespace League\Skeleton;
 
-class DemoTest extends TestCase
+class DemoTest extends \PHPUnit_Framework_TestCase
 {
     public function testSomethingIsTrue()
     {
