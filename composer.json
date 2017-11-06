@@ -27,4 +27,14 @@
             "Mojoblanco\\Domainos\\": "src"
         }
     }
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mojoblanco\\Domainos\\DomainosServiceProvider"
+            ]
+        }
+    }
 }
